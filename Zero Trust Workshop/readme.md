@@ -1,5 +1,5 @@
 # Zero Trust Workshop Content
 
+The Zero Trust workshop developed by the Security Advocacy group at Microsoft contains learning that can be delivered to eager learners. This workshop covers all the pillars of Zero Trust.
 
-
-
+Collaboration and feedback is requested to ensure that the workshop material continues to meet excellence.
